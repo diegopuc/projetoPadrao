@@ -1,4 +1,4 @@
-# Projeto da Disciplina de Laboratório de AED I
+# Projeto da Disciplina de ...
 
 ## Tema:
 
